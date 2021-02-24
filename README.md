@@ -27,7 +27,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/redux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/javascript%20(1).png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/nodejs.png"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/nuxtjs-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/angular.png"></code>

@@ -59,4 +59,4 @@
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-<img align='right' src="https://komarev.com/ghpvc/?username=tarikul711" alt="tarikul711" />
+<img align='right' src="https://komarev.com/ghpvc/?username=MD-HABIBUR-RAHMAN" alt="MD-HABIBUR-RAHMAN" />

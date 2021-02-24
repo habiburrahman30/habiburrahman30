@@ -51,6 +51,7 @@
 | :----: |    :----:   |
 | ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=MD-HABIBUR-RAHMAN&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIBUR-RAHMAN)]()|
 
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 ## Contact me
 
@@ -58,5 +59,5 @@
 
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
 
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+
 <img align='right' src="https://komarev.com/ghpvc/?username=MD-HABIBUR-RAHMAN" alt="MD-HABIBUR-RAHMAN" />

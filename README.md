@@ -75,8 +75,8 @@
 | ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=habiburrahman30&show_icons=true&theme=radical)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman30)|
 
 
-<p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p>
-<be>
+<p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p><be>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=habiburrahman30&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <be>

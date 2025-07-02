@@ -1,3 +1,12 @@
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Habibur+Rahman...;Nice+to+meet+you!&center=true&size=27">
+  </a>
+</h1>
+
+![News24](news24.gif)
+
 ### Hello👋, I'm Habibur Rahman 🙋‍♂️
 
 🔭 **Currently working** on Flutter, Dart, Nodejs, Node.js(Nestjs)

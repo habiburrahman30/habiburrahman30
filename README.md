@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br />
 🔭 **Currently working** on Flutter, Dart, Nodejs, Node.js(Nestjs)
 
 🌱 **I’m currently learning** Nodejs using Nestjs framework
@@ -75,8 +75,6 @@
 | :----: |    :----:   |
 | ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=habiburrahman30&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman30)]()|
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=habiburrahman30&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p>
 

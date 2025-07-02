@@ -7,7 +7,22 @@
 
 ![News24](news24.gif)
 
-### Hello👋, I'm Habibur Rahman 🙋‍♂️
+#### 📫 Connect With Me:
+
+<div align="left">
+<a href="https://twitter.com/" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 🔭 **Currently working** on Flutter, Dart, Nodejs, Node.js(Nestjs)
 
@@ -25,7 +40,7 @@
 
 😄 **Pronouns:** he/him/his 
 
-## 🔭 Tools & Technologies
+#### 👨🏻‍💻 Languages and Tools <br />
 
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/android.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/dart.png"></code>
@@ -61,15 +76,12 @@
 | ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=habiburrahman30&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman30)]()|
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=habiburrahman30&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-## Contact me
-
-[<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/MD-HABIBUR-RAHMAN) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/) [<img src='https://img.icons8.com/color/2x/twitter.png' alt='twitter' height='40'>](https://twitter.com/)  [<img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/hmhabiburrahmanBD)  [<img src='https://img.icons8.com/color/2x/youtube-play.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UCNPuhIMO-v2f4mwtsBe5Iiw) [<img src='https://img.icons8.com/color/2x/medium-logo.png' alt='Medium' height='40'>](https://medium.com/) 
 
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
 

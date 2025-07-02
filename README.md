@@ -66,8 +66,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/aws.png"></code>
 
-<br><br>
-##
+<br><be>
 
 ## Statistics
 
@@ -77,6 +76,10 @@
 
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=habiburrahman30&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<be>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 

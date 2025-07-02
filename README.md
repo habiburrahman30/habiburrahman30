@@ -72,7 +72,7 @@
 
 |       |  |
 | :----: |    :----:   |
-| ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=habiburrahman30&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman30)]()|
+| ![Habibur Rahman's github stats](https://github-readme-stats.vercel.app/api?username=habiburrahman30&show_icons=true&theme=radical)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman30)|
 
 
 <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman30&" alt="habiburrahman30" /></p>
